@@ -1,12 +1,6 @@
 # IncomeExpenseTracker
 
 **IncomeExpenseTracker** is a Laravel-based web application designed to help users manage and track their financial transactions, including income and expenses. 
-## Features
-- Record and manage income and expense entries.
-- Categorize transactions.
-- Visual dashboard with financial summaries and charts.
-- Generate detailed reports.
-
 ## Requirements
 - **PHP**: >= 8.0
 - **Composer**: Latest version
